@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The commination prescribed in the liturgy of the Church of England vindicated, and recommended to the consideration of all pious Christians in a sermon preached to a countrey audience on the first Sunday in Lent, 1679/80 / by Benjamin Camfeild ...</title>
+            <author>Camfield, Benjamin, 1638-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32780</idno>
+            <idno type="STC">Wing C377</idno>
+            <idno type="STC">ESTC R1330</idno>
+            <idno type="EEBO-CITATION">12686934</idno>
+            <idno type="OCLC">ocm 12686934</idno>
+            <idno type="VID">65789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 346:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The commination prescribed in the liturgy of the Church of England vindicated, and recommended to the consideration of all pious Christians in a sermon preached to a countrey audience on the first Sunday in Lent, 1679/80 / by Benjamin Camfeild ...</title>
+                  <author>Camfield, Benjamin, 1638-1693.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Brome ... and R. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenten sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65789:1" rendition="simple:additions"/>
+            <p>THE COMMINATION Preſcribed in the LITURGY OF THE <hi>
+                  <hi>Church of England,</hi> VINDICATED;</hi> AND Recommended to the Conſideration of all Pious Chriſtians. IN A SERMON, Preached to a Countrey Audience on the Firſt Sunday in Lent, 1679/80.</p>
+            <p>
+               <hi>By</hi> Benjamin Camfeild, <hi>Rector of</hi> Aylſton <hi>near</hi> Leiceſter.</p>
+            <q>Curſed is he that maketh the Blind to wander out of the way: And all the people ſhall fay Amen.
+<bibl>
+                  <hi>Deut. 27.18.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Brome</hi> at the Gun, and <hi>R. Chiſwell</hi> at the Roſe and Crown in <hi>St. Paul's</hi> Church-yard, 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65789:2" rendition="simple:additions"/>
+            <pb facs="tcp:65789:2"/>
+            <head>TO THE COURTEOUS READER,</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow this honeſt Diſcourſe may <hi>relliſh</hi> with thee, I know not: Yet if it prove <hi>Medici<g ref="char:EOLhyphen"/>nal,</hi> the ſeaſon I am ſure, is good and proper enough for it, and, it matters not much, though it ſhould be leſs <hi>palatable.</hi> Two deſperately-malig<g ref="char:EOLhyphen"/>nant humors it hath to encounter and work upon, <hi>Faction</hi> and <hi>Profaneneſs,</hi> both of them now almoſt grown <hi>Epidemical.</hi> God Almighty ſend it a <hi>Succeſs</hi> anſwerable to the <hi>ſincere intentions</hi> of him that tenders it. But, if thou art Friend to an <hi>Order<g ref="char:EOLhyphen"/>ly Piety</hi> and <hi>Chriſtian Life,</hi> He may promiſe himſelf, <hi>moreover,</hi> thy <hi>accep<g ref="char:EOLhyphen"/>tance</hi> and <hi>Prayers:</hi> And that is all,
+<pb facs="tcp:65789:3"/>which I have to deſire of Thee on <hi>his</hi> be<g ref="char:EOLhyphen"/>half: <g ref="char:V">Ʋ</g>nleſs it be this point of common <hi>Juſtice,</hi> that thou Read it over without prejudice, and conſider of it, before thou paſs cenſure: But <hi>This too</hi> I ſhould ra<g ref="char:EOLhyphen"/>ther commend unto thee for <hi>thy own Be<g ref="char:EOLhyphen"/>nefit,</hi> becauſe Spiritual Phyſick Operates not like to Bodily, whether we think on it, or no.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65789:3"/>
+            <head>A Lent Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Deuteron. XXVII. XV.</hi>
+                  </bibl>
+                  <p>—And all the people ſhall anſwer, and ſay <hi>Amen.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is a moſt excellent Devotional Service,
+<note place="margin">
+                  <hi>Cum primis ſa<g ref="char:EOLhyphen"/>lutaris eſt cere<g ref="char:EOLhyphen"/>monia: ſed non video our debe<g ref="char:EOLhyphen"/>at exhiberi ſo<g ref="char:EOLhyphen"/>lùm nno die, &amp; non ſaepiùs. Bu<g ref="char:EOLhyphen"/>cer.</hi> for ſo in the Liturgie of <hi>Edward</hi> 6. it was deter<g ref="char:EOLhyphen"/>mined to <hi>Aſh<g ref="char:EOLhyphen"/>wedneſday,</hi> but after enlarged to divers time of the year, with an <hi>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>alty only</hi> to the <hi>Firſt day of Lent.</hi> See Mr. <hi>Ham. L'Eſtrange's. Alliance of Di<g ref="char:EOLhyphen"/>vine Offices.</hi> ch. 11. p. 318.</note> which our Church hath charitably provided for the <hi>Beginning of Lent</hi> in the <hi>Commination</hi> pre<g ref="char:EOLhyphen"/>ſcribed to be uſed on <hi>Aſhwedenſday</hi> (and at <hi>other times</hi> * of Solemn Humiliation, when the <hi>Ordinary</hi> ſhall appoint) as one of the moſt proper Helps and Expedients ſhe could furniſh Penitents with, in that looſe and degenerate Age, wherein our Lot is fal<g ref="char:EOLhyphen"/>len, which is impatient of a ſeverer Diſcipline; namely, <hi>That, according to the Pattern ſet us, in this Chapter prin<g ref="char:EOLhyphen"/>cipally, the General Sentences of Gods Curſes against im<g ref="char:EOLhyphen"/>penitent ſinners be distinctly pronounced in the preſence of all the People, and that every one that hears them ſhould anſwer as diſtinctly unto each Sentence,</hi> Amen.</p>
+            <p>But ſuch is the Licentiouſneſs and Profaneneſs of our Generation, that, inſtead of deſiring and promoting the Reſtoration of <hi>Primitive Diſcipline,</hi> we will not vouch<g ref="char:EOLhyphen"/>ſafe to come up ſo much as <hi>Thus far.</hi> We make light
+<pb n="2" facs="tcp:65789:4"/>of ſin, and ſlight the Calls of God and his Church un<g ref="char:EOLhyphen"/>to Repentance; and live, as if we thought that the happineſs and Salvation of the World to come, were worthy but of very little Care and Labour and Pains in our ſtriving to ſecure it here. We have found out new and eaſie wayes and methods to Heaven, which the Primitive Chriſtians, the Church of Chriſt from the Beginning were never acquainted with; wayes to Hea<g ref="char:EOLhyphen"/>ven without Repentance, without confeſſing and for<g ref="char:EOLhyphen"/>ſaking our ſins, and bringing forth Fruits meet for Re<g ref="char:EOLhyphen"/>pentance. We are not for going ſo far about, but a nearer Cut, a directer Paſſage of our own deviſing, a Leap as it were <hi>from Hell to Heaven,</hi> or hugging our ſins all the dayes of our Life, at Death and the Grave to part and ſhake hands with them. We have time e<g ref="char:EOLhyphen"/>nough to ſpare for Worldly pleaſures and divertiſements; but when Religion challengeth our attendance, we have no leiſure at all for it. We can ſpend hours and days freely enough in Viſits, in Sports, in Drinking, and 'tis well ſometimes if not in worſe imployments: But, Oh! how <hi>Scrupulous</hi> do we ſeem in Conſcience of tak<g ref="char:EOLhyphen"/>ing any part from our ſix working dayes and Devoting it unto God!</p>
+            <p>Pardon me, Beloved, if upon this occaſion, I ſpeak ſomewhat plainly and freely to you. A Pan-Cake Bell, as we call it, upon <hi>Shrove-Tueſday,</hi> though no Autho<g ref="char:EOLhyphen"/>rity injoyn it, will eaſily draw men from the works of their Callings, and every one is free and forward enough in hearkning to the Summons of it. What a General Rendeſvouz and Croud of People is there every where uſually upon it! But the Bells may Call loud enough and Chime long enough upon the <hi>Aſh-Wedenſday after it</hi> (and that by Authority too both of Church and State) yet few or none will take the warning given them, to lay aſide their Worldly buſineſs for a while,
+<pb n="3" facs="tcp:65789:4"/>to reſort to the Congregation, there to Confeſs their Sins, and give proof of their Repentance, and Humble themſelves together before Almighty God, in order to the procuring of his Forgiveneſs and Bleſſing.</p>
+            <p>Nor is this all. I would it were. Too many there are, that are gone a degree farther in their Impiety. They content not themſelves with <hi>abſtaining</hi> from the Churches Service, but they ſit down alſo in the <hi>Chair of the Scorner.</hi> They Scoff at, and Deride, Revile, and Blaſpheme that moſt excellent Service which we then perform, as a <hi>Superſtitious, Fooliſh</hi> or <hi>Wicked</hi> thing, an <hi>uncharitable Curſing of our ſelves and others,</hi> &amp;c. Of whom I muſt ſay, as St. <hi>Jude</hi> in another Caſe, <q>Theſe ſpeak evil of thoſe things, which they know not,
+<note place="margin">
+                     <hi>Pſal.</hi> 10.</note> but what they know Naturally, as Brute Beaſts, in thoſe things they corrupt themſelves.</q>
+            </p>
+            <p>Alas! None of thoſe Perſons conſider, what a pro<g ref="char:EOLhyphen"/>vocation it is unto God Almighty, <hi>in the dayes and ſea<g ref="char:EOLhyphen"/>ſons of his Grace to harden their Hearts againſt him:</hi> How dear it coſt his <hi>People of old</hi> in the Wilderneſs, unto whom therefore he ſware in his wrath,
+<note place="margin">
+                  <hi>Pſal.</hi> 99.</note> 
+               <q>that they ſhould not enter into his Reſt:</q> How diſmal a Requi<g ref="char:EOLhyphen"/>tal he hath threatned unto ſuch, <hi>Prov.</hi> 1. <hi>ch.</hi> 
+               <q>Becauſe I have called and ye refuſed, I have ſtretched out my hand and no man regarded; but ye have ſet at nought all my Counſel, and would none of my Reproof; I alſo will Laugh at your Calamity, and Mock when your fear cometh; when your fear cometh as Deſo<g ref="char:EOLhyphen"/>lation, and your deſtruction cometh as a Whirlewind, when diſtreſs and anguiſh cometh upon you: Then ſhall they call upon me, ſaith He, but I will not an<g ref="char:EOLhyphen"/>ſwer, they ſhall ſeek me early, but they ſhall not find me; for that they hated Knowledge, and did not chuſe the fear of the Lord; they would none of my Counſel, they deſpiſed all my reproof: Therefore ſhall
+<pb n="4" facs="tcp:65789:5"/>they eat of the Fruit of their own way, and be filled with their own devices.</q> — Theſe Perſons think not, how implacable God hath declared himſelf upon <hi>ſuch a like miſcarriage,</hi> as this of theirs is. You have a full and lively Picture of it drawn for your view, <hi>Jſa.</hi> 22.12. &amp;c. <q>In that day did the Lord of Hoſts call to weeping and mourning, and to baldneſs and to girding with Sack-cloath; and behold joy and gladneſs, ſlaying Ox<g ref="char:EOLhyphen"/>en and killing Sheep,</q> eating Fleſh and drinking Wine, (ſaying with the Epicurean Drolls of all Ages) <q>Let us eat and drink, for to morrow we die. And it was revealed in my ears by the Lord of Hoſts, (ſaith the Prophet) ſurely this Iniquity ſhall not be purged from you till ye die, ſaith the Lord God of Hoſts.</q> — Nor do I <hi>aggravate</hi> the matter here by this Compariſon be<g ref="char:EOLhyphen"/>yond what is Juſt and Right: For <hi>whenſoever our Go<g ref="char:EOLhyphen"/>vernors, both in Church and State, do by their Laws and Orders call us to Mourning and Fasting and Humiliation, we are to look upon it and interpret it, as if God himſelf call'd us by them thereunto;</hi>
+               <note place="margin">See 2 <hi>Cor.</hi> 5.20. 1 <hi>Theſ.</hi> 4.8. &amp;c.</note> and he expects we ſhould take the warning, which they as <hi>his Deputies,</hi> give us, and conſtrues <hi>our deſpiſing of them, as a contempt to himſelf, by whoſe Authority they Act;</hi> And <hi>ſo alſo of old he gave the warning to his People,</hi> according to that of the Prophet <hi>Joel, ch.</hi> 2. <q>Blow the Trumpet, Sanctifie a Faſt, Call a Solemn Aſſembly; Gather the People; Sanctifie the Congregation; Aſſemble the Elders; ga<g ref="char:EOLhyphen"/>ther the Children and thoſe that ſuck the Breaſts; Let the Bride-groom go forth of his Chamber, and the Bride out of her Cloſet; Let the Prieſts, the Mi<g ref="char:EOLhyphen"/>niſters of the Lord, weep between the Porch and the Altar, and let them ſay, ſpare thy People, O Lord!</q> — This you ſee, is the <hi>Truth of the Caſe,</hi> we are all herein Tranſgreſſors; though it may be <hi>aggravated</hi> in ſome by their <hi>Contumacy,</hi> and <hi>mitigated</hi> in others by their <hi>Seduction</hi> and <hi>Inadvertency.</hi>
+            </p>
+            <pb n="5" facs="tcp:65789:5"/>
+            <p> Beſeech we God of his infinite mercy therefore, that he lay not <hi>this great Iniquity</hi> to the Charge of this ſin<g ref="char:EOLhyphen"/>ful Kingdom! Pray we, as <hi>Moſes</hi> did for the <hi>Iſraelites,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 9.27.</note> 
+               <q>Look not O Lord, unto the ſtubbornneſs of this Peo<g ref="char:EOLhyphen"/>ple, nor to their wickedneſs, nor to their ſin!</q> Or, as we have it our <hi>Letany.</hi> — <q>From hardneſs of heart and contempt of thy Word and Commandment, Good Lord deliver us!</q>
+            </p>
+            <p>However, upon all theſe Conſiderations laid toge<g ref="char:EOLhyphen"/>ther, I have purpoſely diverted unto <hi>the Text even now Read;</hi> that I might meet with thoſe who will not ſo much as afford their preſence at ſuch a Solemnity, and give them that account of <hi>this part of our Service,</hi> which may, by Gods Grace, engage them hereafter to a con<g ref="char:EOLhyphen"/>ſcionable frequenting of it.</p>
+            <p>And, that I may do this with the better ſucceſs, I will <hi>First</hi> ſet before you <hi>the Law and Practiſe, as it stood among the Iſraelites;</hi> what was the Divine inſtitution and Ordinance among them in this matter; and then <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> ſhew you, <hi>how far we are still concerned in it,</hi> or what this obſervance among them ſuggeſts to invite and juſtifie or vindicate our imitation.</p>
+            <p>Firſt, <hi>It is good to conſider the Order, which the Lord kept with his People in times paſts,</hi>
+               <note place="margin">
+                  <hi>T.</hi> 6. <hi>L.</hi> 1. <hi>p.</hi> 196.</note> as the <hi>Nonconformists</hi> themſelves have ſometimes worded it upon <hi>other</hi> Occa<g ref="char:EOLhyphen"/>ſions.</p>
+            <p>The Firſt proviſion about this we Read of <hi>Deuter.</hi> 11.26. &amp;c. — <q>Behold, ſaith <hi>Moſes,</hi>
+                  <note place="margin">Augmentatio Boni; Diminu<g ref="char:EOLhyphen"/>tio Boni Aben-Ezra.</note> I ſet before you this day a Bleſſing and a Curſe (that is, Good and Evil, Happyneſs and Miſery)</q>
+               <q>A Bleſſing, if ye obey the Commandment of the Lord your God, which I Command you this day, and a Curſe if ye will not obey. — And it ſhall come to paſs, ſaith he, when the Lord thy God hath brought thee into the Land, whi<g ref="char:EOLhyphen"/>ther thou goeſt to Poſſeſs it, that thou ſhalt put the
+<pb n="6" facs="tcp:65789:6"/>Bleſſing upon Mount <hi>Gerizim,</hi> and the Curſe upon Mount <hi>Ebel;</hi>
+               </q> Are they not on the other ſide <hi>Jordan,</hi> &amp;c?
+<note place="margin">Ainſworth in Loc.</note> — Thou ſhalt put, or give, the Bleſſing Upon, or Towards, Mount <hi>Gerizim</hi> (for ſo the <hi>Hebrew</hi> Prepoſi<g ref="char:EOLhyphen"/>tion <hi>Gnal</hi> ſometimes ſignifies) that is, <hi>cauſe it to be pro<g ref="char:EOLhyphen"/>nounced there;</hi> and ſo the Curſe in like manner Upon, or Towards, Mount <hi>Ebel.</hi> Thou ſhalt ſee or take care that the Bleſſing and Curſe be given forth by the <hi>Priests,</hi>
+               <note place="margin">Dandam cura<g ref="char:EOLhyphen"/>bis, operâ ſcil. Levitarum. Vatablus.</note> the <hi>Levites,</hi> towards theſe Mountains reſpectively; by the Levites, <q>I ſay, whoſe Office it was to teach <hi>Jacob</hi> Gods Judgments,</q>
+               <note place="margin">
+                  <hi>Deut.</hi> 33.10.</note> and <hi>Iſrael</hi> his Law; by whom God had before ordered the Solemn Bleſſing, <hi>ch.</hi> 10. and the Curſes too, as afterwards we find it.</p>
+            <p>But of this ſame matter he ſpeaks more particu<g ref="char:EOLhyphen"/>larly and diſtinctly in <hi>This</hi> 27th <hi>Chapter. Pſal.</hi> 12. &amp;c. <q>Theſe ſhall ſtand on Mount <hi>Gerizim,</hi> to bleſs the Peo<g ref="char:EOLhyphen"/>ple, when ye are come over <hi>Jordan, Simeon,</hi> and <hi>Le<g ref="char:EOLhyphen"/>vi,</hi> and <hi>Judah,</hi> and <hi>Iſſachar,</hi> and <hi>Joſeph,</hi> (under which, <hi>Ephraim</hi> and <hi>Manaſſeh</hi>) and <hi>Benjamin.</hi>
+               </q> Theſe ſhall ſtand on Mount <hi>Gerizim</hi> to Bleſs the People,
+<note place="margin">Vatablus.</note> 
+               <hi>ad au<g ref="char:EOLhyphen"/>diendam benedictionem,</hi> to hear the Bleſſing pronounced on the People for Obedience. <q>And theſe ſhall ſtand upon Mount <hi>Ebel</hi> to Curſe, <hi>Reuben, Gad,</hi> and <hi>Aſher,</hi> and <hi>Zebulun, Dan</hi> and <hi>Naphtali.</hi>
+               </q> Theſe on Mount <hi>Ebel</hi> to Curſe, or <hi>for the Curſing,</hi> that is, in like man<g ref="char:EOLhyphen"/>ner, <hi>to hear the Curſe denounced for Diſobedience.</hi> For the People were not on either Mountain to pronounce the Bleſſing or the Curſe, but to hear and witneſs unto <hi>both proclaimed by the Levites,</hi> as it follows. — <q>And the <hi>Levites</hi> ſhall ſpeak and ſay unto all the men of <hi>Iſrael</hi> with a loud voice, Curſed be (or, is) the man that maketh any Graven, or Molten Image, an abomina<g ref="char:EOLhyphen"/>tion to the Lord, the work of the hands of the Crafts<g ref="char:EOLhyphen"/>man, and putteth it in a ſecret place: And all the People ſhall anſwer, and ſay, <hi>Amen.</hi> Curſed is he
+<pb n="7" facs="tcp:65789:6"/>that ſetteth light by his Father or his Mother; And all the People ſhall ſay <hi>Amen.</hi>
+               </q> — &amp;c.
+<note place="margin">
+                  <hi>Munſter</hi> is mi<g ref="char:EOLhyphen"/>ſtaken, who reckon'd but 11.</note> in <hi>Twelve parti<g ref="char:EOLhyphen"/>culars,</hi> in the end of <hi>each</hi> of which it is preſcribed ſtill in words at length, <q>And all the People ſhall ſay <hi>Amen.</hi>
+               </q>
+            </p>
+            <p>And as this Office was <hi>twice preſcribed by Moſes in the name of God</hi> unto them, as we have ſeen, ſo after<g ref="char:EOLhyphen"/>wards we find it put <hi>in practice under Joſhua,</hi> when he had Conducted them over <hi>Jordan</hi> to this place. <hi>Joſh.</hi> 8.33. &amp;c. <q>And all <hi>Iſrael</hi> and their Elders, and Officers, and their Judges ſtood on this ſide the Ark, and on that ſide, before the Prieſts, the Levites, which bare the Ark of the Covenant of the Lord, as well the ſtranger (that is, the Proſelite) as he that was born among them. Half of them over againſt Mount <hi>Geri<g ref="char:EOLhyphen"/>zim,</hi> and half of them over againſt Mount <hi>Ebel;</hi> as <hi>Moſes</hi> the Servant of the Lord had Commanded before, that they ſhould Bleſs the People of <hi>Iſrael.</hi> And af<g ref="char:EOLhyphen"/>terwards he Read all the words of the Law, the Bleſ<g ref="char:EOLhyphen"/>ſings and Curſings, according to all that is written in the Book of the Law; there was not a word of all that <hi>Moſes</hi> Commanded, which <hi>Joſhua</hi> read not before all the Congregation of <hi>Iſrael</hi> with the Women and the little ones and the Strangers, that were Converſant among them.</q>
+            </p>
+            <p>An auguſt and full aſſembly, we ſee, here, of the <hi>Rulers and all the People, Women and Children too, and Strangers (who had embraced their Religion) not except<g ref="char:EOLhyphen"/>ed.</hi> — And when <hi>Joſhua</hi> is ſaid to have <hi>read all the Bleſ<g ref="char:EOLhyphen"/>ſings and Curſings</hi> according to all that was written in the Law, and as <hi>Moſes</hi> had Commanded, we muſt un<g ref="char:EOLhyphen"/>derſtand that he iſſued out his <hi>Warrant,</hi> gave forth his <hi>Edict to the Prieſts the Levites herein to do their proper Office,</hi> and what they did <hi>at his Command</hi> is aſcribed to <hi>him,</hi> as if he had done it. — And ſo again, though
+<pb n="8" facs="tcp:65789:7"/>there be no particular mention here of the Acclamati<g ref="char:EOLhyphen"/>ons of all the People <hi>anſwering and ſaying Amen,</hi> yet there can be no queſtion at all, but that <hi>ſo we are to conceive of it,</hi> becauſe All is ſaid to be done by him <hi>ac<g ref="char:EOLhyphen"/>cording to all that was written by</hi> Moſes <hi>in the Book of the Law about it,</hi> where he had his <hi>Pattern</hi> as well as <hi>Commiſſion</hi> given him, and in which it was <hi>ſo often re<g ref="char:EOLhyphen"/>peated, "All the People ſhall ſay</hi> Amen.</p>
+            <p>Concerning the <hi>place</hi> where theſe two Mountains ſtood,
+<note place="margin">
+                  <hi>Vide Matium. in Joſh.</hi> 8. <hi>Non procul â Sicimis. Antiq. L.</hi> 4. <hi>c. ult.</hi>
+               </note> ſome difference there is among Coſmographers, which I ſhall not trouble you with. <hi>Joſephus</hi> deſcribes them near to <hi>Sichem,</hi> and that is the moſt common O<g ref="char:EOLhyphen"/>pinion, it being reported by Travellers into thoſe parts, that near the Gate of that City was <hi>Jacobs Fountain,</hi> and <hi>ſomewhat above that, a Mount ariſing with two Tops, as it were, one against the other,</hi> which the Inhabitants thereabouts take for <hi>Gerizim and Ebel,</hi> the one upon the <hi>Right hand,</hi> the other on the <hi>Left,</hi> ſuppoſing the Face turned to the Eaſt or Sun-riſing; Mount <hi>Gerizim Southward,</hi> which was accounted <hi>Dextrum mundi latus</hi> the Right ſide of the World, and Mount <hi>Ebel North<g ref="char:EOLhyphen"/>ward,</hi> which hath been ever look'd upon as <hi>Male-omi<g ref="char:EOLhyphen"/>nata plaga,</hi> an ill-bodeing Coaſt.</p>
+            <p>Now in the Valley, between theſe two Mountains, as the ſtory tells us, was placed the <hi>Holy Ark,</hi> and next to that the <hi>Priests the Levites</hi> which bore it, and <hi>all Iſrael,</hi> Officers and People, in their ſeveral Tribes, on <hi>this ſide</hi> and on <hi>that, Half of them over against Mount Gerizim,</hi> and <hi>Half of them over against Mount Ebel.</hi> That is, as we are told more particularly, Towards Mount <hi>Gerizim</hi> were the <hi>ſix heads of the Free Tribes,</hi> with their reſpective Tribes,
+<note place="margin">Liberarum filij ex juſtis Ma<g ref="char:EOLhyphen"/>tribus fami<g ref="char:EOLhyphen"/>liâs.</note> 
+               <hi>Simeon and Levi, and Ju<g ref="char:EOLhyphen"/>dah and Iſſachar and Joſeph and Benjamin,</hi> all Children of the Free-Women, <hi>Rachel</hi> and <hi>Lea.</hi> And <q>Bleſſed<g ref="char:EOLhyphen"/>neſs, the <hi>Apoſtle</hi> tells us, belongs to the Children of
+<pb n="9" facs="tcp:65789:7"/>the Free-Woman.</q> 
+               <hi>Gal.</hi> 4.22.31. — Upon this Mount, afterwards the <hi>Samaritans</hi> are ſaid to have Built their Temple, taking occaſion, it ſeems,
+<note place="margin">Ainſworth in Deuteron.</note> from what was now done there for a Superſtitious conceit of the place it ſelf, calling themſelves, <hi>Thoſe that belong to the Bleſſed Mount.</hi>
+               <note place="margin">Servarum filij.</note> — And then for Mount <hi>Ebel</hi> there were <hi>ſix o<g ref="char:EOLhyphen"/>thers,</hi> the <hi>Sons of the Bond-Women, Four of them Born of the two hand-maids,</hi> viz. <hi>Gad and Aſher,</hi> the Sons of <hi>Zilpah, Lea's hand-maid, Dan and Naphtali of Bilhah, Rachel's hand-maid.</hi> But then, to make up the <hi>number even</hi> with thoſe on the other ſide, two are added, that were Born indeed of the Free, <hi>Reuben,</hi> the <hi>Eldeſt by Leah,</hi> but one that had <hi>forfeited his dignity by defiling his Fathers Bed;</hi> and <hi>Zebulun</hi> the <hi>last of the Sons by Leah alſo,</hi> and ſo the <hi>leaſt in Dignity.</hi> Thus the Peo<g ref="char:EOLhyphen"/>ple are divided into <hi>two equal Choires,</hi> as it were, the one on the <hi>Right-hand,</hi> and the other on the <hi>Left,</hi> with all their Faces <hi>towards the Ark;</hi>
+               <note place="margin">Ora omnium obverſa ad Ar<g ref="char:EOLhyphen"/>cam. Matius ut ſuprâ.</note> the Bleſſings to be pro<g ref="char:EOLhyphen"/>nounced by the <hi>Levites,</hi> towards thoſe on Mount <hi>Ge<g ref="char:EOLhyphen"/>rizim,</hi> and the Curſes towards thoſe on Mount <hi>Ebel,</hi> o<g ref="char:EOLhyphen"/>ver againſt them, not unfitly declaring (as one of the <hi>Rabbi</hi>'s obſerves) <hi>Quantum eſſet inter benedictionem ma<g ref="char:EOLhyphen"/>ledictionemque diſſidium;</hi> how great a <hi>Diſtance</hi> there is between <hi>Obedience and Diſobedience,</hi> the <hi>Bleſſing and the Curſe.</hi> A vaſt Gulf, as it were, between them, like to that we read of in the Goſpel, between <hi>Abrahams Bo<g ref="char:EOLhyphen"/>ſome</hi> and the <hi>place of Torment.</hi> They move towards <hi>two oppoſite points,</hi> and are not poſſibly to be reconciled ſo as to meet together in one.</p>
+            <p>Well, the Congregation thus ſet, we are to ſuppoſe that <hi>ſome one or more of the Levites</hi> did lift up his voice like a <hi>Trumpet,</hi> and,
+<note place="margin">Tanquam feci<g ref="char:EOLhyphen"/>alis: Mat ius ibid.</note> as <hi>God Almighty</hi>'s <hi>Herald</hi> propound the Articles of his Law and Covenant, turn<g ref="char:EOLhyphen"/>ing <hi>first to the Right,</hi> that is, towards Mount <hi>Gerizim,</hi> to utter the <hi>Benedictions and Bleſſings.</hi> — But, what
+<pb n="10" facs="tcp:65789:8"/>theſe Bleſſings were, <hi>Moſes</hi> doth not ſpecifie; and this <hi>ſilence</hi> of his in the Caſe is look'd upon by ſome,
+<note place="margin">Ainſworth in Loc.</note> as <hi>instru<g ref="char:EOLhyphen"/>ctive about a Mystery</hi> (in like manner as the Apoſtle to the <hi>Hebrews</hi> interprets his ſilence concerning the Genea<g ref="char:EOLhyphen"/>logie of <hi>Melchiſedec</hi>) leading the Sagacious Reader to look for them by <hi>another, which is Christ,</hi> by whom cometh Grace and Truth, and whom God hath ſent to Bleſs us. — But, waving this conjecture though theſe Bleſſings are not ſpecified, <hi>it is not to be question'd, but they were rehearſed to the People as well as the Curſes;</hi> nay, it is obſervable, where we have the Hiſtory of the practiſe, in the time of <hi>Joſhua,</hi> that the <hi>chief, if not on<g ref="char:EOLhyphen"/>ly, mention is made of Benediction,</hi> 
+               <q>as <hi>Moſes</hi> the Ser<g ref="char:EOLhyphen"/>vant of the Lord had Commanded before, that they ſhould Bleſs the People of <hi>Iſrael.</hi>
+               </q>
+               <note place="margin">Maſius in Loc.</note> 
+               <hi>Sola Benedictio a<g ref="char:EOLhyphen"/>gebatur: It was their Bleſſing all along that was deſign'd and aimed at; the other was but</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a thing as it were, by the by, Subſervient and in order to this Benedi<g ref="char:EOLhyphen"/>ction, as a likely means to remove the impediments and hindrances of it.</hi> Thoſe therefore that are verſed in the <hi>Jewiſh</hi> Antiquities, tell us, that the Bleſſings are <hi>parti<g ref="char:EOLhyphen"/>cularly to be Collected out of the Curſes here mentioned,</hi> anſwering to each of them. A <hi>pauſe</hi> being made by the Levite at the end of every Sentence or Period, both of Bleſſing and Curſe, that the People, on both ſides, might atteſt their approbation <hi>distinctly to every Article,</hi> as he went along, by their <hi>joynt Acclamations of</hi> Amen; only with <hi>this difference,</hi> Thoſe on Mount <hi>Gerizim beginning the</hi> Amen <hi>to the Bleſſings,</hi> and their Brethren on the o<g ref="char:EOLhyphen"/>ther ſide againſt them on Mount <hi>Ebel</hi> reſounding or ec<g ref="char:EOLhyphen"/>choing the like after them; Thoſe on Mount <hi>Ebel</hi> again <hi>beginning the</hi> Amen <hi>to the Curſes,</hi>
+               <note place="margin">P. Fagius in Denter.</note> and their Brethren on <hi>Gerizim</hi> repeating the ſame after them. — And it is not improbable but that the twelve <hi>Benedictions,</hi> on the one ſide, and the twelve <hi>Maledictions,</hi> on the other were
+<pb n="11" facs="tcp:65789:8"/>pronounced <hi>alternatim, by turn, or Exchange,
+<note place="margin">
+                     <hi>Antiq. L.</hi> 4. <hi>C. ult.</hi>
+                  </note> in the way of Antiphone or Reſponſal, ſuccinentes ſibi invicem,</hi> as <hi>Joſephus</hi> hath it, The Levites ſuppoſe, <hi>firſt beginning to<g ref="char:EOLhyphen"/>wards the Right with the Bleſſings thus,</hi> 
+               <q>Bleſſed is he that worſhippeth the true <hi>Jehova</hi> only, and no other Gods beſides or with him,</q> whereunto <hi>All the People anſwer and ſay</hi> Amen, Thoſe on Mount <hi>Gerizim begin<g ref="char:EOLhyphen"/>ning the ſhout,</hi> and thoſe on Mount <hi>Ebel</hi> following them therein. And <hi>then, turning to the Left,</hi> (or <hi>another Le<g ref="char:EOLhyphen"/>vite it may be appointed for the Left</hi>) <q>Curſed is the man that maketh any Graven or Molten Image, &amp;c.</q> whereto <hi>All the People again anſwer and ſay</hi> Amen, Thoſe on Mount <hi>Ebel beginning the ſhout,</hi> and thoſe on Mount <hi>Gerizim</hi> following them in the ſame. And <hi>then pro<g ref="char:EOLhyphen"/>ceeding to the Second,</hi> 
+               <q>Bleſſed is he that honoureth his Father and Mother;</q> whereunto <hi>all the People in like manner anſwer and ſay</hi> Amen. And on the <hi>otherſide,</hi> 
+               <q>Curſed is he that ſetteth light by his Father, or Mo<g ref="char:EOLhyphen"/>ther: And <hi>all the People ſay</hi> Amen.</q> — And <hi>ſo in Order throughout all the rest.</hi>
+               <note place="margin">1. <hi>Inter Deum &amp; hominem.</hi> 2. <hi>inter filium &amp; patrem. Munſter in Loc.</hi>
+               </note> The <hi>First</hi> plainly relates to the leading <hi>Duty of man to God,</hi> which begins the <hi>Firſt Ta<g ref="char:EOLhyphen"/>ble</hi> of the Law. The <hi>Second</hi> to that of <hi>Children to their Parents,</hi> which is alſo the <hi>First of the ſecond Table.</hi> And then we may obſerve that the <hi>Last is general and com<g ref="char:EOLhyphen"/>prehenſive of all together.</hi> On the <hi>one ſide,</hi> ſuppoſe, <q>Bleſ<g ref="char:EOLhyphen"/>ſed is he that confirmeth all the words of this Law to do them. — and on the <hi>other,</hi> — Curſed is he that confirmeth not all the words of this Law to do them. And <hi>all the People ſay</hi> Amen.</q>
+            </p>
+            <p>Which <hi>interlocutory ſervice finiſhed</hi> between Prieſt and People, the <hi>Minister, as 'tis probable, proceeded to repeat all that follows in the</hi> 28th <hi>Chapter as an agreea<g ref="char:EOLhyphen"/>ble Comment or Illustration upon this Bleſſing and this Curſe,</hi> which God had cauſed to be pronounced among them, and they by their <hi>Amen</hi> had conſented to the truth
+<pb n="12" facs="tcp:65789:9"/>and equity of; that they might the better underſtand and conſider, <hi>how much was Comprized under either of them,</hi> what good things under the Bleſſing, and what evil things under the Curſe. And it is not unlikely, but theſe Bleſſings and Curſes, ſo diſtinctly proclaimed by Gods Meſſenger, and atteſted to by the People, were the <hi>Summary, Epitome, or Abstract of that Law which was at this time alſo engraven upon</hi> 12 <hi>great Stones very plainly,
+<note place="margin">
+                     <hi>Deuter.</hi> 27.8.</note> [in perpetuam rei memoriam]</hi> for a perpetual Remem<g ref="char:EOLhyphen"/>brance to them all; The <hi>chief</hi> of thoſe <hi>Commands,</hi> which they were obliged unto, <hi>thus recommended</hi> to their care<g ref="char:EOLhyphen"/>ful obſervance, both by the hope of Reward, and the fear of puniſhment.</p>
+            <p>But, paſſing by all <hi>other</hi> obſervations, we have here, you ſee, a <hi>Form of worſhip preſcribed by</hi> Moſes <hi>to all the People,</hi> a Form of worſhip, <hi>wherein both Priest and Peo<g ref="char:EOLhyphen"/>ple were interchangeably to bear a part,</hi> and a Form of worſhip <hi>to be obſerved orderly and uniformly among them.</hi> 
+               <q>
+                  <hi>And all the People ſhall anſwer and ſay</hi> Amen.</q>
+            </p>
+            <p>It is well, that there was none of the Spirit, or Lea<g ref="char:EOLhyphen"/>ven, of the <hi>Diſſentors of our time</hi> then among them. For they would have ſaid, <hi>To what purpoſe is all this Doe about external and bodily worſhip?</hi> about the <hi>uttering of an</hi> Amen? about the <hi>obſerving of ſuch Order and Cere<g ref="char:EOLhyphen"/>mony in it?</hi> Nay, they would have gainſaid and qua<g ref="char:EOLhyphen"/>rell'd at it, if upon <hi>no other</hi> ground, yet <hi>meerly becauſe commanded,</hi> as an <hi>intolerable impoſition upon their liberty and freedom, a yoke of bondage.</hi> Alas! It is no engage<g ref="char:EOLhyphen"/>ing <hi>now,</hi> as it was <hi>then,</hi> it ſeems, <hi>for all the People,</hi> that they ſhall <hi>obſerve any thing preſcribed them about the ſer<g ref="char:EOLhyphen"/>vice of God;</hi> ſo <hi>moroſe</hi> and <hi>untractable</hi> they are. Set them to the <hi>Right hand,</hi> they will take the <hi>Left:</hi> Bid them <hi>Kneel,</hi> or <hi>Stand up,</hi> they will <hi>Sit and Loll:</hi> Bid them <hi>Anſwer</hi> to any thing, They will be <hi>Mutes.</hi> Bid them ſay <hi>Amen;</hi> they will rather declare, by <hi>ſome or o<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:65789:9"/>ſign or gesture, a diſlike of the diſaffection to the wor<g ref="char:EOLhyphen"/>ſhip</hi> they are preſent at. They are not at all for being <hi>bound up</hi> to any thing, for obliging themſelves, or pay<g ref="char:EOLhyphen"/>ing their homage and devotion to God <hi>[conceptâ ver<g ref="char:EOLhyphen"/>borum formula]</hi> in any <hi>premeditate Form of words drawn up to their hands.</hi> — But that by the way.</p>
+            <p>All I will now further enquire into about the Text ſhall be concerning the <hi>importance and meaning of this word,</hi> Amen, which the People, we may preſume, here uttered with a great deal of <hi>Solemnity and reverence</hi> as well as <hi>underſtanding and affection.</hi> As we Read at <hi>ano<g ref="char:EOLhyphen"/>ther time,</hi> 
+               <q>when <hi>Ezra</hi> Bleſſed the Lord, the Great God; All the People anſwered <hi>Amen, Amen,</hi>
+                  <note place="margin">
+                     <hi>Ezra</hi> 8.6.</note> with lifting up their hands and bowing their heads, and worſhipping the Lord with their Faces to the Ground.</q> And there was a <hi>command for that</hi> Amen <hi>too, as well as for this,</hi> the Amen <hi>at the end of their Doxologies,</hi>
+               <note place="margin">See 1 <hi>Chron.</hi> 16.34. <hi>&amp;c. Pſal.</hi> 89. <hi>ult.</hi> 106.48. <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 14.16. <hi>Revel.</hi> 7.12.</note> 
+               <hi>and praiſes and prayers,</hi> which therefore hath been tranſcrib<g ref="char:EOLhyphen"/>ed into the <hi>Churches practiſe ever ſince.</hi>
+            </p>
+            <p>Well, but what is the proper meaning and interpre<g ref="char:EOLhyphen"/>tation of <hi>Amen?</hi> That is, the moſt needful enquiry for our information.</p>
+            <p>In anſwer to this therefore you muſt know, that it is Originally an <hi>Hebrew word,</hi> though ſince admitted by uſe and cuſtom into <hi>all Languages,</hi> made a free deni<g ref="char:EOLhyphen"/>zon as it were in all Countries, retain'd in all Tongues and among all People. Now in the <hi>Hebrew</hi> it hath re<g ref="char:EOLhyphen"/>lation unto <hi>Truth,</hi> and ſo it is uſed ſometimes as a Noun, for <hi>Truth it ſelf,</hi> but <hi>more uſually as an Adverb,</hi> for <hi>Tru<g ref="char:EOLhyphen"/>ly,</hi> in confirmation of Truth.</p>
+            <p n="1">(1.) It is uſed as a <hi>Noun,</hi> for <hi>Truth, Verity, Faith<g ref="char:EOLhyphen"/>fulneſs;</hi> So <hi>God himſelf</hi> is call'd <hi>The Amen,</hi> we Engliſh it the <hi>God of Truth. Iſa.</hi> 65.16.
+<note place="margin">In Deo Amen, i. e. in Deo vero. Grot. in Loc.</note> 
+               <q>That he who Bleſſeth himſelf in the Earth, ſhall Bleſs himſelf in the God of Truth; and he, that Sweareth in the Earth, ſhall Swear
+<pb n="14" facs="tcp:65789:10"/>by the God of Truth.</q> It is in the <hi>Hebrew, in and by God the</hi> Amen. He alone is Truth, the Very and True God, in whoſe Name we are to Bleſs, and by whoſe Name we are to Swear. And thus, in the <hi>New Teſta<g ref="char:EOLhyphen"/>ment, Christ,</hi> being alſo the <hi>True God,</hi> is in like man<g ref="char:EOLhyphen"/>ner call'd <hi>The Amen. Rev.</hi> 3.14. <q>Theſe things ſaith the <hi>Amen,</hi> the Faithful and True witneſs;</q> where the <hi>La<g ref="char:EOLhyphen"/>ter</hi> words explain the <hi>Former,</hi> the <hi>Greek</hi> pertinently gloſſing upon the <hi>Hebrew</hi> (as <hi>chap.</hi> 1.8. <q>I am <hi>Alpha</hi> and <hi>Omega,</hi>
+               </q> the Beginning and the Ending) <hi>The Amen,</hi> that is, "<hi>The Faithful and True witneſs,</hi> or as he <hi>elſewhere</hi> ſtiles himſelf "<hi>The Truth.</hi> St. <hi>John</hi> 14.6. And ſo the word is uſed too by St. <hi>Paul,</hi> apply'd to the <hi>Promiſes of God through him.</hi> 2 <hi>Cor.</hi> 1.20. <q>All the promiſes of God are in him, yea and in him <hi>Amen.</hi>
+               </q> 
+               <hi>i. e. Truth and Truth;</hi> moſt certain, perfect and infallible Truth.</p>
+            <p>But then (2ly.) it is <hi>most frequently uſed Adverbially,</hi> and then, as I ſaid, the importance of it is <hi>Truly</hi> or <hi>Verily,</hi> as we often render it. And this is the <hi>primary, ſignification and uſe of it,</hi> as a word of <hi>Vehement aſſeve<g ref="char:EOLhyphen"/>ration or earneſt affirming.</hi> Thus in St. <hi>Matthew ch.</hi> 24, 47. "<hi>Amen I ſay unto you.</hi> So it is in the <hi>Original.</hi> We Engliſh it "<hi>Verily.</hi> But then in St. <hi>Luke. ch.</hi> 12.44. where the <hi>ſame thing</hi> is repeated, the <hi>Greek Varies,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <hi>Truly, in Truth,</hi> or, as we <hi>there Engliſh it,</hi> 
+               <q>Of <hi>a Truth I ſay unto you.</hi>
+               </q> — In <hi>another</hi> place we find it rendred by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is, in <hi>Greek,</hi> the <hi>Adverb of Af<g ref="char:EOLhyphen"/>firming,</hi> anſwerable to the <hi>Latines, Etiam,</hi> and <hi>our Yea,</hi> (as where Chriſt injoyns, let your Communication be <hi>yea yea,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> &amp;c. St. <hi>Matth.</hi> 5) Thus in St. <hi>Matthew ch.</hi> 23.36. "<hi>Amen I ſay unto you,</hi> we read it, "<hi>Verily.</hi> But it is in St. <hi>Luke ch.</hi> 11.51. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, "<hi>Yea I ſay unto you,</hi> though in our. Tranſlation we have <hi>no notice</hi> of it. — Sometimes we find <hi>both the Greek and Hebrew put to<g ref="char:EOLhyphen"/>gether.</hi> So in the place <hi>before quoted,</hi> 
+               <q>All the promi<g ref="char:EOLhyphen"/>ſes
+<pb n="15" facs="tcp:65789:10"/>in him <hi>yea,</hi> and in him <hi>Amen.</hi>
+               </q> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; for the <hi>Noun:</hi> and ſo for the <hi>Adverb</hi> too. <hi>Revel.</hi> 1.7. Be<g ref="char:EOLhyphen"/>hold, <q>he cometh with Clouds, and every eye ſhall ſee him, &amp;c.</q> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, "<hi>Yea, Amen.</hi> We read it, <hi>Even ſo Amen.</hi> And this was uſually <hi>ingeminated</hi> by our <hi>Bleſſed Saviour,</hi> when he was moſt earneſt in his aſſeverations. <hi>Amen, Amen:</hi> or <hi>Verily, Verily I ſay unto you.</hi> St. <hi>John</hi> 3.3. and 5.14.12.16.23, &amp;c.</p>
+            <p>From all this now we gather, that <hi>Amen is most pro<g ref="char:EOLhyphen"/>perly a note of Affirmation.</hi> And, when it comes at the <hi>end of a Sentence,</hi> we are to conſtrue it <hi>according to the matter going before it.</hi> If it be any thing <hi>poſſitively de<g ref="char:EOLhyphen"/>clared</hi> from God; then <hi>Amen,</hi> is the <hi>Subſcription or Seal as it were of our Faith added to it.</hi> Thus we have it at the end of our <hi>Creed, Amen,</hi> that is our <hi>Creed over a<g ref="char:EOLhyphen"/>gain in one word. "So I believe,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Aquila &amp; Symmachus</hi> ſometimes render it. "<hi>Aſſuredly, ſo it is.</hi> — "The Creator, ſaith St. <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 1.26.</note> who is Bleſſed for e<g ref="char:EOLhyphen"/>vermore, <hi>Amen, yea, that he is.</hi> — If it be matter of <hi>Deſire or Prayer,</hi> Then it is <hi>all the Prayer repeated again in one word,</hi> which the <hi>Greek</hi> turns by, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Rev.</hi> 22.20.</note> the <hi>La<g ref="char:EOLhyphen"/>tines</hi> by, <hi>Fiat,</hi> we in <hi>Engliſh,</hi> 
+               <q>
+                  <hi>ſo be it,</hi> I come quick<g ref="char:EOLhyphen"/>ly, ſaith <hi>Chriſt:</hi>
+               </q> 
+               <hi>Amen,</hi> ſaith the <hi>Apoſtle,</hi> come Lord Jeſus, that is, <hi>I both believe and deſire it.</hi> So the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremiah.</hi> God having ſaid, <q>obey my voice,
+<note place="margin">
+                     <hi>Jerem.</hi> 11.5.</note> that I may perform the Oath,</q> which I have Sworn to your Fathers, &amp;c. — Then anſwer'd I (ſaith he) and ſaid, <hi>Amen; O Lord.</hi> We read it, "<hi>So be it, O Lord.</hi> It is an expreſſion both of <hi>Faith in Gods promiſes,</hi> and <hi>De<g ref="char:EOLhyphen"/>ſire to enjoy them.</hi> But in <hi>another</hi> place of that Pro<g ref="char:EOLhyphen"/>phet it denotes <hi>deſire alone and by it ſelf</hi> without any belief or perſwaſion of the Truth of what went before. Thus, when <hi>Hananiah</hi> had Prophecied falſly the return of the <hi>Veſſels</hi> and of <hi>Jechoniah; Jeremiah,</hi>
+               <note place="margin">
+                  <hi>Ch.</hi> 28.6.</note> to expreſs his <hi>good wiſhes only,</hi> though he <hi>knew and foretold the
+<pb n="16" facs="tcp:65789:11"/>Contrary,</hi> ſaith upon it; <q>
+                  <hi>Amen, The Lord do ſo. The Lord perform the words which thou hast promiſed.</hi>
+               </q> —q. d. <hi>This would pleaſe me very well;</hi> and <hi>This is matter of my hearty wiſhes too, if ſo it pleaſed God.</hi>
+            </p>
+            <p>
+               <hi>Amen,</hi> Originally and primarily is, <hi>Affirmantis,</hi> a word of <hi>Faith and perſwaſion,</hi> affirming or aſſenting to the truth of what is ſaid. But ſometimes it is moreover according to what goes before it, <hi>Optantis,</hi> a word of <hi>wiſhing and deſiring,</hi> or <hi>Concedentis &amp; ratum habentis,</hi> a note of <hi>conſent and ratification,</hi> And that is the chief notion under which we are to look upon it <hi>throughout the Churches Service.</hi> As a Subſcription of him that u<g ref="char:EOLhyphen"/>ſeth it to that which went before; as a Teſtimony of his <hi>aſſent and conſent thereunto;</hi> and accordingly ſometimes not only his <hi>Faith and perſwaſion,</hi> but his <hi>wiſhes and de<g ref="char:EOLhyphen"/>ſires.</hi> Amen all the end of our <hi>prayers</hi> and <hi>praiſes</hi> is, <hi>So be it.</hi> At the end of our <hi>Creeds, So it is.</hi> And in like manner, whenſoever an <hi>affirmation</hi> goes before it, as in <hi>theſe Sentences</hi>— "Curſed is the man, who doth ſo and ſo. <hi>Amen</hi> is, <hi>So we believe.</hi> Hereby therefore the peo<g ref="char:EOLhyphen"/>ple <hi>Saying</hi> Amen <hi>to theſe Curſes, as before to the Bleſſings,</hi> did <hi>openly testifie their firm belief of what had been pro<g ref="char:EOLhyphen"/>nounced in the name of God;</hi> ſet to their Seal, that God was true, and as his promiſes of Bleſſing to be embrac<g ref="char:EOLhyphen"/>ed, ſo his threatnings of Curſe to be feared. They did hereby <hi>declare publickly their aſſent to the truth and E<g ref="char:EOLhyphen"/>quity of them all;</hi> that it was but juſt and fitting that, whoſoever among them did ſo and ſo tranſgreſs, ſhould ſo and ſo be puniſhed; The diſobedient accurſed, as the obedient Bleſſed; and upon the whole they <hi>gave up their full conſent to the Law of God, establiſhed and ratified with theſe Bleſſings in it to the Obedient, and Cur<g ref="char:EOLhyphen"/>ſes to the Diſobedient, as all Laws are with the People ſanctions of due Rewards and Puniſhments.</hi>
+            </p>
+            <pb n="17" facs="tcp:65789:11"/>
+            <p> They did not therefore, as ſome <hi>vainly</hi> ſurmiſe, here<g ref="char:EOLhyphen"/>in unnaturally <hi>Curſe themſelves,</hi> or <hi>wiſh theſe Curſes ab<g ref="char:EOLhyphen"/>ſolutely to light upon themſelves;</hi> No more than he that conſenteth to any Law, that hath a <hi>penalty</hi> annexed to it. He only ſaith in <hi>effect, I conſent to the Law thus promulged;</hi> I yield to the juſtice and equity of this pu<g ref="char:EOLhyphen"/>niſhment upon the breach of it; and think thoſe wor<g ref="char:EOLhyphen"/>thy of the puniſhment who ſhall preſume to break it. But, all the while, the ſcope, deſign and intention of the Law is <hi>Obedience and a Bleſſing upon that Obedience;</hi> and the puniſhment annexed only to <hi>deter from the vio<g ref="char:EOLhyphen"/>lation of it.</hi> But then indeed, upon a <hi>ſuppoſition</hi> of ſuch a wicked violation, we declare further, that the <hi>penal<g ref="char:EOLhyphen"/>ty is but juſt and righteous;</hi> nay, and we do <hi>voluntarily expoſe our ſelves to the Infliction of it,</hi> by conſenting to the Law ſo eſtabliſhed.</p>
+            <p>And that now was the chief deſign of what was here preſcribed — <q>
+                  <hi>And all the People ſhall anſwer and ſay,</hi> Amen.</q> 
+               <hi>viz.</hi> openly to teſtifie their <hi>Conſent,</hi> as hath been ſaid, to the Law of God that had this penalty or Curſe by him annexed to the breach of it; and ſo to <hi>enter themſelves ſolemnly into Covenant with God, in hopes of his Bleſſing, and in dread of his Curſe,</hi> both which were ſet before them; <hi>thus to vow and ſwear fealty to Gods Laws,</hi> and <hi>bind their Souls with a Bond unto him;</hi> as the <hi>Pſalmiſt</hi> ſaith of himſelf, <q>I have Sworn to keep thy righteous Judgments.</q>
+               <note place="margin">
+                  <hi>Pſal.</hi> 119.</note> — And <hi>every vow and Oath made unto God doth neceſſarily end in a Curſe upon our ſelves, if we break it,</hi> as <hi>Plutarch</hi> well notes;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Rom. Quaeſt.</hi>
+               </note> a Curſe which by our perjurie we pull down upon our ſelves, and may in a ſort too, namely, <hi>upon that ſuppoſition,</hi> be ſaid before-hand to imprecate. So when <hi>Nehemiah</hi> took an Oath of the Prieſts to do according to their pro<g ref="char:EOLhyphen"/>miſe of Reſtitution. <hi>ch.</hi> 5. <q>He ſhook his Lap and ſaid, ſo God ſhake out every man from his houſe, and
+<pb n="18" facs="tcp:65789:12"/>from his Labour, that performeth not this promiſe, even thus be he ſhaken out and emptyed! And all the people ſaid <hi>Amen,</hi> and praiſed the Lord and did According to this promiſe.</q> 11.13. Yet here they did not <hi>properly Curſe themſelves,</hi> neither, but teſtified their belief, that <hi>God would ſo Curſe the Diſobedient,</hi> and that it was <hi>juſt and Righteous that ſo he ſhould,</hi> whoever they were, and hereupon were <hi>moved to Obedience.</hi> Or, it may be, there was <hi>thus much more</hi> in it; they did <hi>Oblige themſelves under a Curſe to this Obedience,</hi> as every one that appeals to God Almighty as <hi>witneſs and Judge</hi> in a Caſe doth; ſaying in a manner, <hi>God do thus and thus to me, if I perform not.</hi> And yet, all the while, this is not any <hi>uncharitable Curſing of our ſelves,</hi> but a moſt <hi>charitable obliging our ſelves in the higheſt manner we can to our bounden duty, by the Belief and dread of that Curſe, which otherwiſe we look for:</hi> As we find it expreſt in that ſolemn Covenant with God, which <hi>Nehemiah</hi> Cauſed the <hi>Jews</hi> to Seal unto, <q>They enter'd into a Curſe and into an Oath to walk in Gods Law. <hi>ch.</hi> 10.29.</q>
+            </p>
+            <p>And thus now I have given you an account of the <hi>Pattern</hi> before us, the <hi>Divine inſtitution and appointment among the Jews,</hi> and <hi>their practiſe</hi> according to it. It remains only, that I ſhew you <hi>next,</hi> as briefly as I can, <hi>how far we alſo may be ſtill concern'd in it.</hi>
+            </p>
+            <p>And <hi>Firſt,</hi>
+               <note place="margin">See Dr. <hi>Com<g ref="char:EOLhyphen"/>ber</hi> on this Of<g ref="char:EOLhyphen"/>fice. <hi>Compan.</hi> to Temple. part. 4. <hi>p.</hi> 551. &amp;c.</note> in the General, ſhould we grant it to have been <hi>wholly and purely Ceremonial,</hi> a poſſitive and pecu<g ref="char:EOLhyphen"/>liar Ordinance of God for his People the <hi>Jews only,</hi> yet thus certainly it becomes us all, both to think and ſpeak with all <hi>Modeſty</hi> and <hi>Reverence</hi> of it, as <hi>ſuch;</hi> God him<g ref="char:EOLhyphen"/>ſelf having Commanded that the Curſes of his Law ſhould be <hi>thus</hi> orderly and diſtinctly denounced by the <hi>Levites;</hi> and that all the People, at the hearing of them, ſhould as diſtinctly and audibly anſwer and ſay, Amen. We muſt not therefore preſume to Condemn this, ei<g ref="char:EOLhyphen"/>ther
+<pb n="19" facs="tcp:65789:12"/>for a <hi>fooliſh</hi> or a <hi>wicked</hi> appointment. We muſt take heed, how we <hi>Blaſpheme and affront God Almighty</hi> by the little Cavils and Exceptions of our prejudiced and foreſtall'd apprehenſions. To <hi>this height of impiety</hi> doth the zealous hatred of ſome againſt the <hi>Liturgie</hi> bring them. What otherwiſe they pretend to <hi>Reve<g ref="char:EOLhyphen"/>rence in their Bibles,</hi> they moſt ignorantly <hi>reproach and diſpute againſt in the Common-prayer-book.</hi>
+            </p>
+            <p>But then, <hi>Secondly,</hi> though there were confeſſedly ſome <hi>particular Circumſtances</hi> in this Caſe that belong<g ref="char:EOLhyphen"/>ed to the <hi>Jews</hi> only (ſuch as the <hi>diviſion of their Tribes after that manner upon the two oppoſite Mountains</hi> and the <hi>like</hi>) yet the <hi>Subſtance of the thing it ſelf</hi> is manifeſtly ſuch as carries a great deal of <hi>natural Equity</hi> and <hi>uſeful morality</hi> in it; and is the <hi>rather</hi> to be imitated by us, becauſe God hath gone before in preſcribing of it to <hi>this very purpoſe</hi> of engaging and promoting Obedience among his antient People; <hi>Obedience being unto us, as well as unto them, the way to Bleſſing,</hi> and <hi>Diſobedience to us, as well as unto them, the way to a Curſe.</hi>
+            </p>
+            <p>As for the <hi>Laws of eternal Equity and Righteouſneſs,</hi> our Bleſſed Saviour came not to <hi>deſtroy</hi> or <hi>put an end to them,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>more fully to Preach</hi> and <hi>more effectu<g ref="char:EOLhyphen"/>ally to preſs them upon the World.</hi> And as to matters of <hi>Order and decencie</hi> among the People, though of parti<g ref="char:EOLhyphen"/>cular and poſitive inſtitution, we may obſerve <hi>a frequent imitation in the Chriſtian Church</hi> under the New Teſta<g ref="char:EOLhyphen"/>ment, without any challenge for ſo doing. We Re<g ref="char:EOLhyphen"/>hearſe <hi>their Deealogue</hi> as the <hi>Rule of our Lives.</hi> The ve<g ref="char:EOLhyphen"/>ry <hi>Petitions of the Lords Prayer</hi> had been uſed in their devotions. The <hi>materials of both Sacraments,</hi> the <hi>wa<g ref="char:EOLhyphen"/>ter of Baptiſm,</hi> the <hi>Loaf and Cup in the Lords Supper</hi> took their riſe from them. <hi>Biſhops, Prieſts and Deacons</hi> in the Government of the Church, are by the Fathers reſembled to their <hi>High-Prieſts, Prieſts, and Levites.</hi>
+               <pb n="20" facs="tcp:65789:13"/>
+               <note n="*" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t ſciamus traditiones A<g ref="char:EOLhyphen"/>poſtolicas ſump<g ref="char:EOLhyphen"/>tas de veteri Teſtamento, Quod Aaron &amp; ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j ejus atque Levitae in Tem<g ref="char:EOLhyphen"/>plo fuerunt, hoc ſibi Epiſcopi, Preſbyteri &amp; Diaconi ven<g ref="char:EOLhyphen"/>dicant in Ec<g ref="char:EOLhyphen"/>cleſiâ.</hi> St. <hi>Hi<g ref="char:EOLhyphen"/>ron ad Evagr.</hi>
+               </note> And the very <hi>manner and order of worſhipping God in their Synagogues,</hi> for <hi>Reading the Holy Scriptures, and Prayers,</hi> as the Learned
+<note n="†" place="margin">
+                  <hi>Totum Regi<g ref="char:EOLhyphen"/>men Eccleſia<g ref="char:EOLhyphen"/>rum Chriſti conformatum fuit ad ſynago<g ref="char:EOLhyphen"/>garum exem<g ref="char:EOLhyphen"/>plar. Grot. in Act.</hi> 11</note> know, hath been <hi>readily Co<g ref="char:EOLhyphen"/>pied out in the Churches of Chriſt.</hi> — No wonder there<g ref="char:EOLhyphen"/>fore, that <hi>our Reformed Church</hi> was eaſily induced to <hi>an imitation of this moſt uſeful Diſcipline likewiſe,</hi> which hath <hi>Gods Honour</hi> and <hi>our Good</hi> (the great ends of all our Lives) ſtamped, as it were, in <hi>Legible Characters</hi> up<g ref="char:EOLhyphen"/>on the forehead of it.</p>
+            <p>It tends <hi>apparently to the Honour of God and his Laws,</hi> thus to have the Equity Truth and Righteouſneſs of them made known, proclaimed, and acknowledged: And it tends <hi>as apparently to promote Righteouſneſs and Vertue in us,</hi> thus diſtinctly to own and profeſs our firm belief, that all the Laws of God are Righteous and Good, and that the Sanctions of them are all juſt and equal; and we left <hi>inexcuſable</hi> upon the Tranſgreſſion of them. It is therefore <hi>a very fitting means and help, you ſee, both to Glorifie God and to promote our own good and happineſs;</hi> to bring us to <hi>Repentance,</hi> for what is paſt, and to keep us in <hi>Obedience,</hi> for the time to come.</p>
+            <p>Nor hath this Tranſaction any thing in it that is re<g ref="char:EOLhyphen"/>pugnant or unſuitable to the <hi>Times of the Goſpel,</hi> more than of the Law; to the <hi>Chriſtian worſhip,</hi> any more than to the <hi>Jewiſh.</hi>
+            </p>
+            <p>
+               <q>Chriſt, it is <hi>true,</hi> hath taken away the Curſe of the Law,</q>
+               <note place="margin">
+                  <hi>Gal.</hi> 3.13.</note> being made a Curſe for us, as the <hi>Apoſtle</hi> hath it. There is <hi>no diſpute of that.</hi> And ſo it was <hi>then too,</hi> in <hi>Type and figure,</hi> ſhadowed forth and adum<g ref="char:EOLhyphen"/>brated in their Sacrifices:
+<note place="margin">
+                  <hi>Revel.</hi> 13.8.</note> 
+               <q>He being the <hi>Lamb ſlain from the Foundation of the World,</hi>
+               </q> and the <hi>ſubſtance of all thoſe ſhadows.</hi> But this is only ſtill with reſpect unto <hi>True Penitents;</hi> that is, thoſe who ſincerely Re<g ref="char:EOLhyphen"/>pent of their former Diſobedience, and as ſincerely re<g ref="char:EOLhyphen"/>ſolve
+<pb n="21" facs="tcp:65789:13"/>and endeavour to reform and amend for the fu<g ref="char:EOLhyphen"/>ture. As to <hi>all others,</hi> who bid God defiance, and ſin, <hi>elatâ mann,</hi> with an hand lift up againſt Heaven, as it were <hi>daring</hi> the Almighty to puniſh them, the Curſe of the Law holds <hi>ſtill in force;</hi> and all the Acts of wilful ſin and Diſobedience are, no <hi>leſs now than before,</hi> under the Sentence of Gods Curſe. And we ought every one <hi>to believe and Confeſs this,</hi> till by the ſight of our Curſed wretched and miſerable Eſtate, by reaſon of Sin, we are brought unto Repentance and Reformati<g ref="char:EOLhyphen"/>on, and ſo <hi>qualified for the Pardon and Bleſſing of the Goſpel of Grace through Jeſus Chriſt.</hi> Then we are aſ<g ref="char:EOLhyphen"/>ſured, that there ſhall be no Condemnation to us,
+<note place="margin">
+                  <hi>Rom.</hi> 8.1.</note> who walk "not after the Fleſh, but after the Spirit; but we ſhall moſt certainly be deliver'd from the Execu<g ref="char:EOLhyphen"/>tion of all thoſe Threatnings, not becauſe there is <hi>no truth and certainty in them,</hi> but in regard <hi>that our Re<g ref="char:EOLhyphen"/>deemer, by his merit and ſatisfaction hath purchaſed for us a Releaſe and immunity from them.</hi> We are yet to declare <hi>a ſtedfaſt beliefe of the Truth and certainty of theſe Curſes;</hi> thereby to <hi>own what our ſins deſerve</hi> at Gods hands, and moſt juſtly expoſe us to; and <hi>admire the patience and forbearance of God</hi> towards us; and they are to be as <hi>a School-maſter to lead us unto Chriſt for de<g ref="char:EOLhyphen"/>liverance</hi> from them, and as <hi>a Tutor and Monitor of the great obligation we have to him our Redeemer;</hi> They are alſo to bring us to <hi>a true and ſerious Humiliation for all our Tranſgreſſions,</hi> and to <hi>warn us againſt them for the time to come.</hi> For, notwithſtanding the <hi>Bleſſing of the Goſpel,</hi> we are yet, if we take not heed,
+<note n="†" place="margin">
+                  <q>If any man love not the Lord Jeſus Let him be Anathema Maranatha.</q> 1 <hi>Cor.</hi> 16.22.</note> liable to <hi>a Curſe alſo,</hi> if we are wilfully Diſobedient to it; nay and <hi>a greater and ſadder Curſe and Condemnation, than the Law ever pronounced,</hi> becauſe the <hi>Bleſſing to us is by many degrees greater, than what was ſet before them.</hi> As we have <hi>better promiſes,</hi> ſo we have alſo <hi>a ſorer Judgment</hi>
+               <pb n="22" facs="tcp:65789:14"/>held forth unto us, as the <hi>Apoſtle</hi> to the <hi>Hebrews,</hi> more than once, intimateth. <q>How ſhall we eſcape, if we neglect ſo great Salvation? <hi>ch.</hi> 2. And of how much ſorer puniſhment ſuppoſe ye, ſhall he be thought worthy, who hath trodden under foot the Blood of the Son of God, &amp;c? <hi>ch.</hi> 10.</q> The Goſpel is not made up <hi>altogether</hi> of <hi>comforts</hi> and <hi>promiſes,</hi> as ſome miſtake it, but hath its <hi>Threats and Terrors</hi> alſo. <q>knowing therefore the Terror of the Lord we perſwade men 2 <hi>Cor.</hi> 5.11.</q>
+            </p>
+            <p>Both the <hi>Baptiſt,</hi> Chriſts fore-runner, and our Bleſ<g ref="char:EOLhyphen"/>ſed <hi>Saviour himſelf</hi> too, call upon us to <q>Repent, that we may flie from wrath; and tell us, that the Axe is now laid to the root of the Trees, ſo that every Tree which bringeth not forth good Fruit is to be hewen down, and caſt into the Fire; and that unleſs we Repent we ſhall all periſh.</q> — In that famous <hi>Ser<g ref="char:EOLhyphen"/>mon of our Lords upon the Mount,</hi> we have him not on<g ref="char:EOLhyphen"/>ly, as it were upon Mount <hi>Gerizim</hi> uttering the <hi>Beati<g ref="char:EOLhyphen"/>tudes</hi> or <hi>Bleſſings to his Diſciples.</hi> St. <hi>Matt.</hi> 5. <q>Bleſ<g ref="char:EOLhyphen"/>ſed are the poor in Spirit. Bleſſed are they that mourn. Bleſſed are the meek. Bleſſed are they that hunger and thirſt after Righteouſneſs.</q>
+               <q>Bleſſed are the mer<g ref="char:EOLhyphen"/>ciful. Bleſſed are the pure in heart. Bleſſed are the Peace-makers. Bleſſed are they that are perſecuted for Righteouſneſs-ſake.</q> But, if we compare St. <hi>Luke ch.</hi> 6. We find him alſo as it were upon Mount <hi>Ebal,</hi> to denounce unto <hi>others a contrary Wo and Curſe.</hi> 
+               <q>But Wo unto you that are Rich. Wo unto you that are full. Wo unto you that Laugh now. Wo unto you when all men ſpeak well of you.</q> — As elſewhere we find him uttering <hi>many Woes againſt the Hypocriti<g ref="char:EOLhyphen"/>cal Scribes and Phariſees,</hi>
+               <note place="margin">St. <hi>Matth.</hi> 23. St. <hi>Luke</hi> 11. St. <hi>Matth.</hi> 11. St. <hi>Luke</hi> 10.</note> 
+               <hi>and thoſe that Repented not at the ſight of his mighty works among them.</hi> And, when he vouchſafes to give us an account of the <hi>Judgment of the
+<pb n="23" facs="tcp:65789:14"/>Laſt day</hi> he lets us underſtand, how <hi>all men then</hi> ſhall be divided and ſeparated, as <hi>the Children of Iſrael now</hi> were, the <hi>Righteous,</hi> that is the <hi>Sons of the Free-Wo<g ref="char:EOLhyphen"/>man,</hi> the Faithful Diſciples of Chriſt, as it were on <hi>Gerizim,</hi> at the <hi>Right hand</hi> to receive a <hi>Bleſſing,</hi> but the <hi>unrighteous,</hi> that is the <hi>Bond-Slaves of Sin and Satan,</hi> as it were on <hi>Ebal,</hi> at the <hi>Left hand</hi> to receive the <hi>Curſe.</hi> St. <hi>Matth.</hi> 25. <q>Then ſhall the King ſay unto them on his Right hand, Come ye Bleſſed of my Father. <hi>ver.</hi> 34. Then ſhall he ſay alſo unto them on the Left-hand, Depart from me ye Curſed.</q> — <hi>ver.</hi> 41. So that, you ſee, the <hi>Goſpel it ſelf hath its Sentences both of Bleſ<g ref="char:EOLhyphen"/>ſing and Curſing;</hi> And there is an <hi>Amen too,</hi>
+               <note place="margin">St. <hi>Mat.</hi> 28.20. St. <hi>Mark</hi> 16.20. St. <hi>Luke</hi> 24.53. St. <hi>John.</hi> 21.25</note> you may obſerve, <hi>at the end of all the Four Evangeliſts,</hi> which relates to <hi>all things Contained in them, Woes and Curſes,</hi> as well <hi>as Bleſſings,</hi> to teſtifie the Certainty of <hi>both,</hi> and the Belief of both in the Church of Chriſt. <hi>Amen,</hi> that is, <hi>This is the Goſpel of Truth.</hi> We ſay commonly, <hi>as True as Goſpel.</hi> And <hi>both of them</hi> ſhall be made good to the full at the <q>
+                  <hi>Day of the Revelation of the Righ<g ref="char:EOLhyphen"/>teous Judgment of God;</hi> when all Nations ſhall be gather'd before the Great Judge, and he ſhall ſepa<g ref="char:EOLhyphen"/>rate them one from another, as a ſhepherd divideth his Sheep from the Goats, and ſet the Sheep on his <hi>Right hand,</hi> (that is, as hath been ſaid, on <hi>Gerizim</hi>) and the Goats on the <hi>Left,</hi> (that is, on <hi>Ebal.</hi>) When our Lord ſhall be revealed from Heaven with his mighty Angels, in flaming fire taking Vengeance on them that know not God and obey not the Goſpel of our Lord Jeſus Chriſt; but to be glorified in his Saints and admired in all them that believe. 2 <hi>Theſ.</hi> 1.</q>
+            </p>
+            <p>This Inſtitution therefore among the Jews, which gives us a <hi>Remembrance and Repreſentation of theſe things</hi> is not any more unſuitable to the times of the <hi>Goſpel,</hi> than to thoſe of the Law; For we are all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="24" facs="tcp:65789:15"/>
+               <hi>under the Law to Chriſt.</hi>
+               <note n="†" place="margin">1 <hi>Cor.</hi> 9.21. <hi>Gal.</hi> 6.2. St. <hi>Jam.</hi> 2.12.</note> It is as fit <hi>now</hi> as <hi>then,</hi> that we ſhould <hi>attend to the whole will of God,</hi> his <hi>Curſes</hi> no leſs than <hi>Bleſſings.</hi> 'Tis as fit <hi>now</hi> as <hi>then,</hi> that we ſhould ſet the <hi>Amen of our Faith to each of them;</hi> anſwering unto every Sentence in the Holy word of God, <hi>Amen,</hi> and ſo <hi>confeſſing with our mouths, that we believe it un<g ref="char:EOLhyphen"/>feignedly in our hearts.</hi> 
+               <q>To the intent, as it follows in our <hi>Church Service,</hi> that, being admoniſhed of the great indignation of God againſt ſinners, we may the rather be moved unto earneſt and true Repen<g ref="char:EOLhyphen"/>tance; and may walk more warily in theſe dange<g ref="char:EOLhyphen"/>rous dayes; fleeing from ſuch vices, for which we affirm with our own mouths the Curſe of God to be due.</q>
+            </p>
+            <p>Mark here, I beſeech you, the <hi>plain Reſolution of our</hi> Amen <hi>to Gods ſeveral Curſes.</hi> It is not uncharitably to Curſe our ſelves or others; No, <hi>all is in order to a Bleſ<g ref="char:EOLhyphen"/>ſing,</hi> that we may every one carry a ſhare of the Bleſ<g ref="char:EOLhyphen"/>ſing home with us. It is only to <hi>affirm with our mouths, the Truth of the Divine Curſes;</hi> That the Curſe is due to ſuch and ſuch Tranſgreſſors by Gods appointment. That it is moſt certain all ſuch Sinners are really ac<g ref="char:EOLhyphen"/>curſed by God, under his Curſe, while they continue ſuch; and have no poſſibility of removing that Curſe, but by a ſpeedy Repentance and Return to God for par<g ref="char:EOLhyphen"/>don and forgiveneſs through Jeſus Chriſt, that by and in him they may be Bleſſed; for ever Bleſſed by being firſt ſaved from their Sins, and turn'd from their iniqui<g ref="char:EOLhyphen"/>ties.—God of old declared his great Indignation againſt thoſe, <q>who hearing the words of his Curſes, ſhould yet bleſs themſelves in their hearts, ſaying I ſhall have peace, though I walk in the imagination of mine heart to add drunkenneſs to thirſt: The Lord, ſaith <hi>Moſes,</hi> will not ſpare ſuch a man, but all the Curſes in this book ſhall lie upon him. <hi>Deuter.</hi> 29.18.19.</q> The
+<pb n="25" facs="tcp:65789:15"/>Prophet <hi>Iſaiah</hi> proclaims it, <hi>once and again.</hi> 
+               <q>There is no peace, ſaith the Lord, unto the wicked. <hi>ch.</hi> 48.22.</q> and <hi>ch.</hi> 57.21. <q>Let no man deceive you with vain words, ſaith the <hi>Apoſtle,</hi> for becauſe of theſe things cometh the wrath of God upon the Children of Diſ<g ref="char:EOLhyphen"/>obedience. <hi>Epheſ.</hi> 5.6. And when they ſhall ſay peace and ſafety, then ſudden deſtruction cometh upon them, as Travel upon a Woman with Child, and they ſhall not eſcape.</q> 1 <hi>Theſ.</hi> 5.3. It is of great concern<g ref="char:EOLhyphen"/>ment to us therefore, <hi>in time to ſee and underſtand and believe and be ſenſible of the Curſed State which our ſins neceſſarily and unavoidably involve us in,</hi> and to judge <q>and condemn our ſelves,</q>
+               <note place="margin">1 <hi>Cor.</hi> 11.31.</note> that we may anticipate the judgment of the Lord, that we may not be then con<g ref="char:EOLhyphen"/>demned by him; and that we may be moved effectu<g ref="char:EOLhyphen"/>ally to humble our ſelves in this day of grace, and ſea<g ref="char:EOLhyphen"/>ſon lent us for Repentance, to deprecate all his diſplea<g ref="char:EOLhyphen"/>ſure againſt us, and obtain acceptance and favour with him through his Beloved.</p>
+            <p>
+               <hi>It is not we, alas! that make Obedience a Bleſſed thing, or Diſobedience a Curſed thing.</hi> 'Tis all one for that, whether we <hi>Believe it, or not:</hi> Whether we <hi>ſay and own it, or not.</hi> The Bleſſing and Curſe are, both of them, <hi>already pronounced from God.</hi> They are the Sentences of his Curſe <hi>contained in the Holy Scriptures,</hi> the Infal<g ref="char:EOLhyphen"/>lible word of him, that cannot lye; and <hi>gather'd out thence only for our caution and warning.</hi> Our <hi>Amen</hi> ad<g ref="char:EOLhyphen"/>ded to them is but a fitting <hi>declaration,</hi> that <hi>thoſe whom God hath Bleſſed are certainly Bleſſed; and thoſe whom he hath Curſed are as certainly Curſed;</hi> ſaying with our Lips that we believe this in our hearts, which we are <hi>Damn<g ref="char:EOLhyphen"/>ed infidels if we believe not.</hi>
+            </p>
+            <p>And this way of <hi>owning and confeſſing</hi> it, is a very pro<g ref="char:EOLhyphen"/>bable and likely <hi>means to prevent the danger by ſhewing of it to us;</hi> to bring us, as hath been ſaid, to an hear<g ref="char:EOLhyphen"/>ty
+<pb n="26" facs="tcp:65789:16"/>
+               <hi>Repentance</hi> for all that is paſt and a through amend<g ref="char:EOLhyphen"/>ment for the time to come, that ſo we may <hi>avoid the Curſe</hi> and <hi>inherit the Bleſſing;</hi> that taking this <hi>leiſurely admonition</hi> of Gods fierce diſpleaſure againſt <hi>ſuch and ſuch Sinners,</hi> viz. <hi>(Idolaters, Diſobedient to Parents and Go<g ref="char:EOLhyphen"/>vernors, <g ref="char:V">Ʋ</g>njuſt, Cruel, Malicious, <g ref="char:V">Ʋ</g>nclean, <g ref="char:V">Ʋ</g>ncharita<g ref="char:EOLhyphen"/>ble, Covetous,</hi> and <hi>ſuch-like,</hi> who do err and go aſtray from the Commands of God, the <hi>paths of piety, Righ<g ref="char:EOLhyphen"/>teouſneſs and Sobriety,</hi> and walk in the High-Road to de<g ref="char:EOLhyphen"/>ſtruction) we may the rather be moved to an earneſt and true Repentance in <hi>all theſe particulars</hi> for the groſs miſcarriages we have been guilty of; and for the future <hi>awakened</hi> and ſtir'd up to take <hi>greater heed</hi> unto our ſelves, and <hi>walk circumſpectly,</hi> eſpecially in <hi>theſe dange<g ref="char:EOLhyphen"/>rous dayes,</hi> wherein there are ſo many bad examples, in the midſt of a crooked and perverſe Generation; flee<g ref="char:EOLhyphen"/>ing <hi>from thoſe ſeveral Vices,</hi>
+               <note place="margin">Ex ore tuo.</note> 
+               <hi>for which we have affirmed with our own mouths, (and therefore affirmed with our mouths, becauſe we believe in our hearts) the Curſe of God is due,</hi> as it is clearly and plainly legible in his Holy word.</p>
+            <p>There can be nothing of <hi>impiety,</hi> or <hi>folly,</hi> nothing of <hi>antiquated Judaiſm,</hi> or <hi>innovating Popery,</hi> and <hi>Superſtition</hi> certainly in <hi>all this.</hi> Nay, I muſt pronounce <hi>upon the whole,</hi> that there is nothing, which keeps perſons from an hearty Compliance with ſo <hi>wholſome a Service,</hi> but either: Firſt, <hi>the not underſtanding of it aright.</hi> Or, Se<g ref="char:EOLhyphen"/>condly, ſome <hi>ſecret love reſerved to their own Sins,</hi> which makes them backward and unwilling thus to enter into a ſacred vow and covenant with God under a Curſe a<g ref="char:EOLhyphen"/>gainſt them. For otherwiſe the Benefit of this Devo<g ref="char:EOLhyphen"/>tion is moſt Conſpicuous. What more prevailing mo<g ref="char:EOLhyphen"/>tive can there poſſibly be both to <hi>Repentance and Re<g ref="char:EOLhyphen"/>formation,</hi> than <hi>this Remembrance of the dreadful Judg<g ref="char:EOLhyphen"/>ment of God hanging over our heads, whilſt we continue in Sin, and alwayes ready to fall upon us,</hi> prompting of us
+<pb n="27" facs="tcp:65789:16"/>therefore, as the <hi>only remedy and way to eſcape, forthwith to return unto God,</hi> with all contrition and meekneſs of heart, bewailing and lamenting our wicked life, ac<g ref="char:EOLhyphen"/>knowledging and confeſſing our aggravated offences to him, and ſeeking to bring forth Fruits becoming peni<g ref="char:EOLhyphen"/>tents.</p>
+            <p>And, <hi>Thus if we do,</hi> as the excellent <hi>Homily</hi> of the Church aſſures us in the Cloſe, <q>Chriſt will deliver us from the <hi>Curſe of the Law,</hi> and from the <hi>extreme ma<g ref="char:EOLhyphen"/>lediction,</hi> which will light upon them that ſhall be ſet on the <hi>Left hand;</hi> and he will ſet us at his <hi>Right hand,</hi> and give us the gracious <hi>benediction of his Fa<g ref="char:EOLhyphen"/>ther,</hi> commanding us to take poſſeſſion of his moſt glorious Kingdom.</q>
+            </p>
+            <p>
+               <q>Unto which he vouchſafe to bring us all for his In<g ref="char:EOLhyphen"/>finite mercy! <hi>Amen.</hi>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
